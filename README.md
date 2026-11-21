@@ -1,5 +1,5 @@
 
-# Brew & Bite – Café Website
+# Brew & Bite – Cafe Website
 
 A responsive café website developed using React 18 and Vite, integrated with the REST APIs provided by Scalino Technologies.
 
