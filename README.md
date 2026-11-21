@@ -102,18 +102,20 @@ npm run build
 npm run preview
 ```
 
-## Admin Login Credentials
+## Admin Panel Access
+
+**Admin Login URL:** `/admin/login`
 
 **Username:** `admin`
 
 **Password:** `Admin@123`
 
-Note: This is a basic frontend demo login for the admin panel.
+Note: This is a basic frontend demo login.
 
 ## Project Structure
 
 ```text
-cafe-website/
+machinetest_shahana_scalino/
 ├── public/
 ├── src/
 │   ├── api/
