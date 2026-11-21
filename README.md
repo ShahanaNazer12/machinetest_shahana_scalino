@@ -59,13 +59,13 @@ Axios is used for API communication. API operations are organized into reusable 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ShahanaNazer12/machinetest_shahana_scalino.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd cafe-website
+cd machinetest_shahana_scalino
 ```
 
 ### 3. Install dependencies
